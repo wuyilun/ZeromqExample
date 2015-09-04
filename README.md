@@ -1,1 +1,1 @@
-# Here are some example about zeromq.
+# Here are some examples about zeromq.
